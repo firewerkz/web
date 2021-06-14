@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dick Johnson</title>
-    <link>http://example.org/tags/</link>
+    <link>https://firewerkz.github.io/web/tags/</link>
     <description>Recent content in Tags on Dick Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jun 2021 16:57:34 +0100</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jun 2021 16:57:34 +0100</lastBuildDate><atom:link href="https://firewerkz.github.io/web/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>two</title>
-      <link>http://example.org/tags/two/</link>
+      <link>https://firewerkz.github.io/web/tags/two/</link>
       <pubDate>Tue, 08 Jun 2021 16:57:34 +0100</pubDate>
       
-      <guid>http://example.org/tags/two/</guid>
+      <guid>https://firewerkz.github.io/web/tags/two/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iOS</title>
-      <link>http://example.org/tags/ios/</link>
+      <link>https://firewerkz.github.io/web/tags/ios/</link>
       <pubDate>Fri, 04 Jun 2021 13:26:50 +8000</pubDate>
       
-      <guid>http://example.org/tags/ios/</guid>
+      <guid>https://firewerkz.github.io/web/tags/ios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>macOS</title>
-      <link>http://example.org/tags/macos/</link>
+      <link>https://firewerkz.github.io/web/tags/macos/</link>
       <pubDate>Fri, 04 Jun 2021 13:26:50 +8000</pubDate>
       
-      <guid>http://example.org/tags/macos/</guid>
+      <guid>https://firewerkz.github.io/web/tags/macos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Practice2</title>
-      <link>http://example.org/tags/practice2/</link>
+      <link>https://firewerkz.github.io/web/tags/practice2/</link>
       <pubDate>Fri, 04 Jun 2021 13:26:50 +8000</pubDate>
       
-      <guid>http://example.org/tags/practice2/</guid>
+      <guid>https://firewerkz.github.io/web/tags/practice2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TtG</title>
-      <link>http://example.org/tags/ttg/</link>
+      <link>https://firewerkz.github.io/web/tags/ttg/</link>
       <pubDate>Sun, 25 Jun 2017 13:26:50 +0000</pubDate>
       
-      <guid>http://example.org/tags/ttg/</guid>
+      <guid>https://firewerkz.github.io/web/tags/ttg/</guid>
       <description></description>
     </item>
     
