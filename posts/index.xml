@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Dick Johnson</title>
-    <link>https://firewerkz.github.io/web/posts/</link>
+    <link>http://example.org/posts/</link>
     <description>Recent content in Posts on Dick Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jun 2021 16:57:34 +0100</lastBuildDate><atom:link href="https://firewerkz.github.io/web/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jun 2021 16:57:34 +0100</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sample post the second</title>
-      <link>https://firewerkz.github.io/web/posts/sample_post_the_second/</link>
+      <link>http://example.org/posts/sample_post_the_second/</link>
       <pubDate>Tue, 08 Jun 2021 16:57:34 +0100</pubDate>
       
-      <guid>https://firewerkz.github.io/web/posts/sample_post_the_second/</guid>
+      <guid>http://example.org/posts/sample_post_the_second/</guid>
       <description>This is the second amazing post that will blow your mind!</description>
     </item>
     
     <item>
       <title>Practice2 1.01 Released for iOS</title>
-      <link>https://firewerkz.github.io/web/posts/2021-06-04-practice-released-ios-1.01/</link>
+      <link>http://example.org/posts/2021-06-04-practice-released-ios-1.01/</link>
       <pubDate>Fri, 04 Jun 2021 13:26:50 +8000</pubDate>
       
-      <guid>https://firewerkz.github.io/web/posts/2021-06-04-practice-released-ios-1.01/</guid>
+      <guid>http://example.org/posts/2021-06-04-practice-released-ios-1.01/</guid>
       <description>Practice2 release for iPhone &amp;amp; iPad
 What&amp;rsquo;s new Added auto reset if session has ended and start is pressed. Add short app intro. Fixed a few bugs.
 All the best, Dick.</description>
@@ -29,10 +29,10 @@ All the best, Dick.</description>
     
     <item>
       <title>Practice2 1.01 Released for macOS</title>
-      <link>https://firewerkz.github.io/web/posts/2021-06-04-practice-released-macos-1.01/</link>
+      <link>http://example.org/posts/2021-06-04-practice-released-macos-1.01/</link>
       <pubDate>Fri, 04 Jun 2021 13:26:50 +8000</pubDate>
       
-      <guid>https://firewerkz.github.io/web/posts/2021-06-04-practice-released-macos-1.01/</guid>
+      <guid>http://example.org/posts/2021-06-04-practice-released-macos-1.01/</guid>
       <description>Practice2 release for macOS
 What&amp;rsquo;s new Added auto reset if session has ended and start is pressed. Add short app intro. Fixed a few bugs.
 All the best, Dick.</description>
@@ -40,10 +40,10 @@ All the best, Dick.</description>
     
     <item>
       <title>Practice2 1.0 Released for iOS</title>
-      <link>https://firewerkz.github.io/web/posts/2021-05-28-practice-released-ios-1.0/</link>
+      <link>http://example.org/posts/2021-05-28-practice-released-ios-1.0/</link>
       <pubDate>Fri, 28 May 2021 13:26:50 +8000</pubDate>
       
-      <guid>https://firewerkz.github.io/web/posts/2021-05-28-practice-released-ios-1.0/</guid>
+      <guid>http://example.org/posts/2021-05-28-practice-released-ios-1.0/</guid>
       <description>Practice2 release for iPhone &amp;amp; iPad
 A simple practice session timer. For example, use it for guitar practice or a health workout session. Create sessions for different purposes and different durations. Share sessions across devices. Share sessions with friends.
 All the best, Dick.</description>
@@ -51,10 +51,10 @@ All the best, Dick.</description>
     
     <item>
       <title>Practice2 1.0 Released for macOS</title>
-      <link>https://firewerkz.github.io/web/posts/2021-05-28-practice-released-macos-1.0/</link>
+      <link>http://example.org/posts/2021-05-28-practice-released-macos-1.0/</link>
       <pubDate>Fri, 28 May 2021 13:26:50 +8000</pubDate>
       
-      <guid>https://firewerkz.github.io/web/posts/2021-05-28-practice-released-macos-1.0/</guid>
+      <guid>http://example.org/posts/2021-05-28-practice-released-macos-1.0/</guid>
       <description>Practice2 release for macOS
 A simple practice session timer. For example, use it for guitar practice or a health workout session. Create sessions for different purposes and different durations. Share sessions across devices. Share sessions with friends.
 All the best, Dick.</description>
@@ -62,10 +62,10 @@ All the best, Dick.</description>
     
     <item>
       <title>TimeToGo Version 1.1 Released</title>
-      <link>https://firewerkz.github.io/web/posts/2017-06-25-timetogo-version-1-1-release/</link>
+      <link>http://example.org/posts/2017-06-25-timetogo-version-1-1-release/</link>
       <pubDate>Sun, 25 Jun 2017 13:26:50 +0000</pubDate>
       
-      <guid>https://firewerkz.github.io/web/posts/2017-06-25-timetogo-version-1-1-release/</guid>
+      <guid>http://example.org/posts/2017-06-25-timetogo-version-1-1-release/</guid>
       <description>So today version 1.1 of TimeToGo, TtG, was approved and released. I hope you enjoy the added capability of having the dates in the correct format for your device locale.
  Fastlane continues to make the process of test and development, as well as app screenshot capture and formatting a breeze. If you haven&amp;rsquo;t used it, I can thoroughly recommend it.
 All the best, Dick.</description>
@@ -73,20 +73,20 @@ All the best, Dick.</description>
     
     <item>
       <title>TimeToGo Updates for Locale</title>
-      <link>https://firewerkz.github.io/web/posts/2017-06-24-timetogo-updates-locale/</link>
+      <link>http://example.org/posts/2017-06-24-timetogo-updates-locale/</link>
       <pubDate>Sat, 24 Jun 2017 13:26:50 +0000</pubDate>
       
-      <guid>https://firewerkz.github.io/web/posts/2017-06-24-timetogo-updates-locale/</guid>
+      <guid>http://example.org/posts/2017-06-24-timetogo-updates-locale/</guid>
       <description>I know TimeToGo has only just been released, but I&amp;rsquo;ve been working on the next version, which is now in review. This version display&amp;rsquo;s the dates and date picker in the correct format for the device&amp;rsquo;s locale setting.
  As I&amp;rsquo;d been working on all the other things needed for the App Store release, I wanted to get the first working version reviewed and released, and then to develop the functionality further, to make the app more useful for more people.</description>
     </item>
     
     <item>
       <title>TimeToGo Released</title>
-      <link>https://firewerkz.github.io/web/posts/2017-06-22-timetogo-released/</link>
+      <link>http://example.org/posts/2017-06-22-timetogo-released/</link>
       <pubDate>Thu, 22 Jun 2017 13:26:50 +0000</pubDate>
       
-      <guid>https://firewerkz.github.io/web/posts/2017-06-22-timetogo-released/</guid>
+      <guid>http://example.org/posts/2017-06-22-timetogo-released/</guid>
       <description>Well today my first app, TimeToGo, TtG, was released.
 
 Originally written for my wife, I hope you find it useful to.
@@ -96,10 +96,10 @@ All the best, Dick.</description>
     
     <item>
       <title>Welcome to Firewerkz</title>
-      <link>https://firewerkz.github.io/web/posts/2017-06-20-welcome-to-firewerkz/</link>
+      <link>http://example.org/posts/2017-06-20-welcome-to-firewerkz/</link>
       <pubDate>Tue, 20 Jun 2017 13:26:50 +0000</pubDate>
       
-      <guid>https://firewerkz.github.io/web/posts/2017-06-20-welcome-to-firewerkz/</guid>
+      <guid>http://example.org/posts/2017-06-20-welcome-to-firewerkz/</guid>
       <description>Just starting my app development journey.
 
 All the best, Dick.</description>
