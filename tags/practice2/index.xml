@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Practice2 on Dick Johnson</title>
-    <link>http://example.org/tags/practice2/</link>
+    <link>https://firewerkz.github.io/web/tags/practice2/</link>
     <description>Recent content in Practice2 on Dick Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jun 2021 13:26:50 +8000</lastBuildDate><atom:link href="http://example.org/tags/practice2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 04 Jun 2021 13:26:50 +8000</lastBuildDate><atom:link href="https://firewerkz.github.io/web/tags/practice2/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Practice2 1.01 Released for iOS</title>
-      <link>http://example.org/posts/2021-06-04-practice-released-ios-1.01/</link>
+      <link>https://firewerkz.github.io/web/posts/2021-06-04-practice-released-ios-1.01/</link>
       <pubDate>Fri, 04 Jun 2021 13:26:50 +8000</pubDate>
       
-      <guid>http://example.org/posts/2021-06-04-practice-released-ios-1.01/</guid>
+      <guid>https://firewerkz.github.io/web/posts/2021-06-04-practice-released-ios-1.01/</guid>
       <description>Practice2 release for iPhone &amp;amp; iPad
 What&amp;rsquo;s new Added auto reset if session has ended and start is pressed. Add short app intro. Fixed a few bugs.
 All the best, Dick.</description>
@@ -20,10 +20,10 @@ All the best, Dick.</description>
     
     <item>
       <title>Practice2 1.01 Released for macOS</title>
-      <link>http://example.org/posts/2021-06-04-practice-released-macos-1.01/</link>
+      <link>https://firewerkz.github.io/web/posts/2021-06-04-practice-released-macos-1.01/</link>
       <pubDate>Fri, 04 Jun 2021 13:26:50 +8000</pubDate>
       
-      <guid>http://example.org/posts/2021-06-04-practice-released-macos-1.01/</guid>
+      <guid>https://firewerkz.github.io/web/posts/2021-06-04-practice-released-macos-1.01/</guid>
       <description>Practice2 release for macOS
 What&amp;rsquo;s new Added auto reset if session has ended and start is pressed. Add short app intro. Fixed a few bugs.
 All the best, Dick.</description>
@@ -31,10 +31,10 @@ All the best, Dick.</description>
     
     <item>
       <title>Practice2 1.0 Released for iOS</title>
-      <link>http://example.org/posts/2021-05-28-practice-released-ios-1.0/</link>
+      <link>https://firewerkz.github.io/web/posts/2021-05-28-practice-released-ios-1.0/</link>
       <pubDate>Fri, 28 May 2021 13:26:50 +8000</pubDate>
       
-      <guid>http://example.org/posts/2021-05-28-practice-released-ios-1.0/</guid>
+      <guid>https://firewerkz.github.io/web/posts/2021-05-28-practice-released-ios-1.0/</guid>
       <description>Practice2 release for iPhone &amp;amp; iPad
 A simple practice session timer. For example, use it for guitar practice or a health workout session. Create sessions for different purposes and different durations. Share sessions across devices. Share sessions with friends.
 All the best, Dick.</description>
@@ -42,10 +42,10 @@ All the best, Dick.</description>
     
     <item>
       <title>Practice2 1.0 Released for macOS</title>
-      <link>http://example.org/posts/2021-05-28-practice-released-macos-1.0/</link>
+      <link>https://firewerkz.github.io/web/posts/2021-05-28-practice-released-macos-1.0/</link>
       <pubDate>Fri, 28 May 2021 13:26:50 +8000</pubDate>
       
-      <guid>http://example.org/posts/2021-05-28-practice-released-macos-1.0/</guid>
+      <guid>https://firewerkz.github.io/web/posts/2021-05-28-practice-released-macos-1.0/</guid>
       <description>Practice2 release for macOS
 A simple practice session timer. For example, use it for guitar practice or a health workout session. Create sessions for different purposes and different durations. Share sessions across devices. Share sessions with friends.
 All the best, Dick.</description>
