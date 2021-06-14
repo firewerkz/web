@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TtG on Dick Johnson</title>
+    <link>http://example.org/tags/ttg/</link>
+    <description>Recent content in TtG on Dick Johnson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Jun 2017 13:26:50 +0000</lastBuildDate><atom:link href="http://example.org/tags/ttg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TimeToGo Version 1.1 Released</title>
+      <link>http://example.org/posts/2017-06-25-timetogo-version-1-1-release/</link>
+      <pubDate>Sun, 25 Jun 2017 13:26:50 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2017-06-25-timetogo-version-1-1-release/</guid>
+      <description>So today version 1.1 of TimeToGo, TtG, was approved and released. I hope you enjoy the added capability of having the dates in the correct format for your device locale.
+ Fastlane continues to make the process of test and development, as well as app screenshot capture and formatting a breeze. If you haven&amp;rsquo;t used it, I can thoroughly recommend it.
+All the best, Dick.</description>
+    </item>
+    
+    <item>
+      <title>TimeToGo Updates for Locale</title>
+      <link>http://example.org/posts/2017-06-24-timetogo-updates-locale/</link>
+      <pubDate>Sat, 24 Jun 2017 13:26:50 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2017-06-24-timetogo-updates-locale/</guid>
+      <description>I know TimeToGo has only just been released, but I&amp;rsquo;ve been working on the next version, which is now in review. This version display&amp;rsquo;s the dates and date picker in the correct format for the device&amp;rsquo;s locale setting.
+ As I&amp;rsquo;d been working on all the other things needed for the App Store release, I wanted to get the first working version reviewed and released, and then to develop the functionality further, to make the app more useful for more people.</description>
+    </item>
+    
+    <item>
+      <title>TimeToGo Released</title>
+      <link>http://example.org/posts/2017-06-22-timetogo-released/</link>
+      <pubDate>Thu, 22 Jun 2017 13:26:50 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2017-06-22-timetogo-released/</guid>
+      <description>Well today my first app, TimeToGo, TtG, was released.
+
+Originally written for my wife, I hope you find it useful to.
+Please give me feedback.
+All the best, Dick.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Firewerkz</title>
+      <link>http://example.org/posts/2017-06-20-welcome-to-firewerkz/</link>
+      <pubDate>Tue, 20 Jun 2017 13:26:50 +0000</pubDate>
+      
+      <guid>http://example.org/posts/2017-06-20-welcome-to-firewerkz/</guid>
+      <description>Just starting my app development journey.
+
+All the best, Dick.</description>
+    </item>
+    
+  </channel>
+</rss>

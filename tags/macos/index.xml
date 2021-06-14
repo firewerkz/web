@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>macOS on Dick Johnson</title>
+    <link>http://example.org/tags/macos/</link>
+    <description>Recent content in macOS on Dick Johnson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Jun 2021 13:26:50 +8000</lastBuildDate><atom:link href="http://example.org/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practice2 1.01 Released for macOS</title>
+      <link>http://example.org/posts/2021-06-04-practice-released-macos-1.01/</link>
+      <pubDate>Fri, 04 Jun 2021 13:26:50 +8000</pubDate>
+      
+      <guid>http://example.org/posts/2021-06-04-practice-released-macos-1.01/</guid>
+      <description>Practice2 release for macOS
+What&amp;rsquo;s new Added auto reset if session has ended and start is pressed. Add short app intro. Fixed a few bugs.
+All the best, Dick.</description>
+    </item>
+    
+    <item>
+      <title>Practice2 1.0 Released for macOS</title>
+      <link>http://example.org/posts/2021-05-28-practice-released-macos-1.0/</link>
+      <pubDate>Fri, 28 May 2021 13:26:50 +8000</pubDate>
+      
+      <guid>http://example.org/posts/2021-05-28-practice-released-macos-1.0/</guid>
+      <description>Practice2 release for macOS
+A simple practice session timer. For example, use it for guitar practice or a health workout session. Create sessions for different purposes and different durations. Share sessions across devices. Share sessions with friends.
+All the best, Dick.</description>
+    </item>
+    
+  </channel>
+</rss>
