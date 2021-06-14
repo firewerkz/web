@@ -6,32 +6,24 @@
     <description>Recent content in This is a title on Dick Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jun 2021 16:57:34 +0100</lastBuildDate><atom:link href="https://firewerkz.github.io/web/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://firewerkz.github.io/web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://firewerkz.github.io/web/about/</link>
       <pubDate>Tue, 08 Jun 2021 16:57:34 +0100</pubDate>
       
       <guid>https://firewerkz.github.io/web/about/</guid>
-      <description>Simple apps to make things simple.</description>
+      <description>Simple apps to make things simple.
+More to come&amp;hellip;</description>
     </item>
     
     <item>
-      <title>Sample post the second</title>
-      <link>https://firewerkz.github.io/web/posts/sample_post_the_second/</link>
-      <pubDate>Tue, 08 Jun 2021 16:57:34 +0100</pubDate>
-      
-      <guid>https://firewerkz.github.io/web/posts/sample_post_the_second/</guid>
-      <description>This is the second amazing post that will blow your mind!</description>
-    </item>
-    
-    <item>
-      <title>Some cars</title>
+      <title>Some photos</title>
       <link>https://firewerkz.github.io/web/photos/cars/</link>
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
       
       <guid>https://firewerkz.github.io/web/photos/cars/</guid>
-      <description>Here are some cars</description>
+      <description>Here are some photos to get things started.</description>
     </item>
     
     <item>
