@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TimetoGo2 on Dick Johnson</title>
+    <link>https://firewerkz.github.io/web/tags/timetogo2/</link>
+    <description>Recent content in TimetoGo2 on Dick Johnson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Mar 2021 11:00:00 +0100</lastBuildDate><atom:link href="https://firewerkz.github.io/web/tags/timetogo2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TimetoGo2 1.1.6 Released for iOS</title>
+      <link>https://firewerkz.github.io/web/posts/2021-03-17/timetogo2-ios-1.1.6/</link>
+      <pubDate>Wed, 17 Mar 2021 11:00:00 +0100</pubDate>
+      
+      <guid>https://firewerkz.github.io/web/posts/2021-03-17/timetogo2-ios-1.1.6/</guid>
+      <description>  Version 1.1.6 of TimetoGo2, was approved and released for iOS today Simple Time to Go iOS App. Calculates weeks and days from today to selected dates in the future or past. Includes a lead time date for a given numbers of week from today. Simple.
+What&amp;rsquo;s new  Fixed a few bugs  All the best, Dick.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

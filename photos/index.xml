@@ -6,9 +6,27 @@
     <description>Recent content in Photos on Dick Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://firewerkz.github.io/web/photos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://firewerkz.github.io/web/photos/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Some photos</title>
+      <title>Around Here</title>
+      <link>https://firewerkz.github.io/web/photos/aroundhere/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://firewerkz.github.io/web/photos/aroundhere/</guid>
+      <description>Here are some photos of my local area.</description>
+    </item>
+    
+    <item>
+      <title>Boat Trip</title>
+      <link>https://firewerkz.github.io/web/photos/boattrip/</link>
+      <pubDate>Tue, 22 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://firewerkz.github.io/web/photos/boattrip/</guid>
+      <description>Here are some photos from our recent boat trip.</description>
+    </item>
+    
+    <item>
+      <title>Car and Bike Photos</title>
       <link>https://firewerkz.github.io/web/photos/cars/</link>
       <pubDate>Tue, 08 Jun 2021 00:00:00 +0000</pubDate>
       

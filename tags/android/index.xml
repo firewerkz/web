@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Android on Dick Johnson</title>
+    <link>https://firewerkz.github.io/web/tags/android/</link>
+    <description>Recent content in Android on Dick Johnson</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 21 Jun 2021 11:25:43 +0100</lastBuildDate><atom:link href="https://firewerkz.github.io/web/tags/android/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>TimeToGo Version 1.1 Released for Android</title>
+      <link>https://firewerkz.github.io/web/posts/2021-06-21/</link>
+      <pubDate>Mon, 21 Jun 2021 11:25:43 +0100</pubDate>
+      
+      <guid>https://firewerkz.github.io/web/posts/2021-06-21/</guid>
+      <description>Version 1.1 of TimeToGo, TtG, was approved and released for Android today. Simple Time to Go App. Calculates the weeks and days from today to a date in the future. Shows the end date for a given numbers of weeks from today. Select an inspiring picture to remind yourself of your goal. Simple.
+ Google Play and the Google Play logo are trademarks of Google LLC.</description>
+    </item>
+    
+  </channel>
+</rss>

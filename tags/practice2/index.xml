@@ -6,7 +6,27 @@
     <description>Recent content in Practice2 on Dick Johnson</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Jun 2021 13:26:50 +8000</lastBuildDate><atom:link href="https://firewerkz.github.io/web/tags/practice2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Jun 2021 11:00:00 +0100</lastBuildDate><atom:link href="https://firewerkz.github.io/web/tags/practice2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Practice2 1.02 Released for iOS</title>
+      <link>https://firewerkz.github.io/web/posts/2021-06-22/practice-ios-1.02/</link>
+      <pubDate>Tue, 22 Jun 2021 11:00:00 +0100</pubDate>
+      
+      <guid>https://firewerkz.github.io/web/posts/2021-06-22/practice-ios-1.02/</guid>
+      <description>  Version 1.02 of Practice2, was approved and released for iOS today What&amp;rsquo;s new  Added configurable time, session phase ending indication. Phase colour turns to yellow Added introduction replay option in setting Fixed a few bugs  Use split screen on iPad to follow along with another app, like a song book, or guitar tabs All the best, Dick.
+ </description>
+    </item>
+    
+    <item>
+      <title>Practice2 1.02 Released for macOS</title>
+      <link>https://firewerkz.github.io/web/posts/2021-06-22/practice-macos-1.02/</link>
+      <pubDate>Tue, 22 Jun 2021 11:00:00 +0100</pubDate>
+      
+      <guid>https://firewerkz.github.io/web/posts/2021-06-22/practice-macos-1.02/</guid>
+      <description>  Version 1.02 of Practice2, was approved and released for macOS today What&amp;rsquo;s new  Added configurable time, session phase ending indication. Phase colour turns to yellow Added introduction replay option in setting Fixed a few bugs  Use split screen to follow along with another app, like a song book, or guitar tabs All the best, Dick.
+ </description>
+    </item>
+    
     <item>
       <title>Practice2 1.01 Released for iOS</title>
       <link>https://firewerkz.github.io/web/posts/2021-06-04-practice-released-ios-1.01/</link>
