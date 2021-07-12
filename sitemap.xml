@@ -2,22 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://firewerkz.github.io/web/</loc>
+    <lastmod>2021-07-12T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://firewerkz.github.io/web/tags/macos/</loc>
+    <lastmod>2021-07-12T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://firewerkz.github.io/web/posts/</loc>
+    <lastmod>2021-07-12T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://firewerkz.github.io/web/tags/</loc>
+    <lastmod>2021-07-12T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://firewerkz.github.io/web/tags/timetogo/</loc>
+    <lastmod>2021-07-12T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://firewerkz.github.io/web/tags/timetogo2/</loc>
+    <lastmod>2021-07-12T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://firewerkz.github.io/web/posts/2021-07-12/timetogo2-macos/</loc>
+    <lastmod>2021-07-12T11:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://firewerkz.github.io/web/tags/ttg/</loc>
+    <lastmod>2021-07-12T11:00:00+01:00</lastmod>
+  </url><url>
     <loc>https://firewerkz.github.io/web/offline/</loc>
     <lastmod>2021-06-23T12:00:00+01:00</lastmod>
   </url><url>
     <loc>https://firewerkz.github.io/web/404/</loc>
     <lastmod>2021-06-23T12:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://firewerkz.github.io/web/</loc>
-    <lastmod>2021-06-22T11:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://firewerkz.github.io/web/tags/ios/</loc>
-    <lastmod>2021-06-22T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://firewerkz.github.io/web/tags/macos/</loc>
-    <lastmod>2021-06-22T11:00:00+01:00</lastmod>
-  </url><url>
-    <loc>https://firewerkz.github.io/web/posts/</loc>
     <lastmod>2021-06-22T11:00:00+01:00</lastmod>
   </url><url>
     <loc>https://firewerkz.github.io/web/tags/practice/</loc>
@@ -32,9 +47,6 @@
     <loc>https://firewerkz.github.io/web/posts/2021-06-22/practice-macos-1.02/</loc>
     <lastmod>2021-06-22T11:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://firewerkz.github.io/web/tags/</loc>
-    <lastmod>2021-06-22T11:00:00+01:00</lastmod>
-  </url><url>
     <loc>https://firewerkz.github.io/web/photos/aroundhere/</loc>
     <lastmod>2021-06-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -47,13 +59,7 @@
     <loc>https://firewerkz.github.io/web/tags/android/</loc>
     <lastmod>2021-06-21T11:25:43+01:00</lastmod>
   </url><url>
-    <loc>https://firewerkz.github.io/web/tags/timetogo/</loc>
-    <lastmod>2021-06-21T11:25:43+01:00</lastmod>
-  </url><url>
     <loc>https://firewerkz.github.io/web/posts/2021-06-21/</loc>
-    <lastmod>2021-06-21T11:25:43+01:00</lastmod>
-  </url><url>
-    <loc>https://firewerkz.github.io/web/tags/ttg/</loc>
     <lastmod>2021-06-21T11:25:43+01:00</lastmod>
   </url><url>
     <loc>https://firewerkz.github.io/web/about/</loc>
@@ -73,9 +79,6 @@
   </url><url>
     <loc>https://firewerkz.github.io/web/posts/2021-05-28-practice-released-macos-1.0/</loc>
     <lastmod>2021-05-28T13:26:50+80:00</lastmod>
-  </url><url>
-    <loc>https://firewerkz.github.io/web/tags/timetogo2/</loc>
-    <lastmod>2021-03-17T11:00:00+01:00</lastmod>
   </url><url>
     <loc>https://firewerkz.github.io/web/posts/2021-03-17/timetogo2-ios-1.1.6/</loc>
     <lastmod>2021-03-17T11:00:00+01:00</lastmod>
